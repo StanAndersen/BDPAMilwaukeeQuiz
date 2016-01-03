@@ -1,0 +1,58 @@
+﻿[q] What is NOT a way to protect intellectual property.
+[a] encryption
+[o] trademarks
+[o] trade secrets
+[o] patents
+[o] copyrights
+
+[v] What does genericide destroy?
+[o] encryption
+[a] trademarks
+[o] trade secrets
+[o] patents
+[o] copyrights
+[r] Genericide is when a word becomes part of common speech which cannot be trademarked.
+
+[q] Object code is used to protected and related to?
+[o] encryption
+[o] trademarks
+[a] trade secrets
+[o] patents
+[o] copyrights
+[r] It is way to keep the code a trade secret
+
+[q] How many years do patents last
+[a] 20
+[o] 10
+[o] 100
+[o] 50
+[o] 25
+
+[q] Open source in contrast to what?
+[o] encryption
+[o] trademarks
+[o] trade secrets
+[o] patents
+[a] copyrights
+
+[q] Privacy over the Internet is well protectect.
+[a] false
+[o] true
+
+[v] A (bad) program that is concealed in another?
+[a] Viruses
+[o] Trojan
+[o] worm
+
+[v] A (bad) program with a second function
+[o] Viruses
+[a] Trojan
+[o] worm
+
+[v] A program that travels through the network exploiting security weaknesses.
+[o] Viruses
+[o] Trojan
+[a] worm
+
+
+

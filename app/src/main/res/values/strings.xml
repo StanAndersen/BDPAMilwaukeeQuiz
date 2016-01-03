@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BDPA Milwaukee Quiz</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_change_to_answer_screen">ChangeToAnswerScreen</string>
+    <string name="button1">A)</string>
+    <string name="button2">B)</string>
+    <string name="button3">C)</string>
+    <string name="button4">D)</string>
+    <string name="button5">E)</string>
+    <string name="title_activity_dbtest">DBTest</string>
+    <string name="title_activity_dbactivate">dbactivate</string>
+
+</resources>

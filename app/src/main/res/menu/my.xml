@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MyActivity" >
+    <item android:id="@+id/action_settings"
+        android:title="Current Question Pool">
+        <menu>
+            <group android:checkableBehavior="single">
+            <item android:id="@+id/bothQandV"
+                android:title="Questions and Vocabulary" />
+            <item android:id="@+id/questionPool"
+                android:title="Question Only" />
+            <item android:id="@+id/vocabPool"
+                android:title="Vocabulary Only" />
+            </group>
+        </menu>
+    </item>
+    <item android:id="@+id/mode"
+        android:title="mode" >
+        <!-- "file" submenu -->
+        <menu>
+            <group android:checkableBehavior="single">
+            <item android:id="@+id/vocabMode"
+                android:title="Vocabulary" />
+            <item android:id="@+id/questionMode"
+                android:title="Question" />
+            </group>
+        </menu>
+    </item>
+
+</menu>

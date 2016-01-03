@@ -1,0 +1,111 @@
+[v] What is an IDE.
+[a] integrated development environment
+[o] integrated design environment
+[o] internal design environment
+[o] internal development environment
+[r] An IDE or integrated development environment such as eclipse for Java can be excellent for debugging and help with syntax errors. Also more complex editors such as C++ can help catch syntax editors.
+
+[v] An object orientated language allows to define a new class which can be considered to be a new...
+[a]  data element
+[o] primitive type
+[o] interface
+[o] exception
+[r] This is the object in object orientated programming.
+
+[q] Java has primitive types of variables. Which one of the following is not a primitive declaration in Java?
+[a] int[]
+[o] char
+[o] double
+[o] boolean
+[r] Their are three types of primitive variables. 1) integral types such as integers (int) and characters (chars) 2) floating point types such as fraction numbers (doubles) and 3) boolean types such as true or false
+
+[q] In Java after the class declaration, a method may may be declared as follows: “public static void main(String[] args){“. What is the visibility
+[a] public
+[o] static
+[o] main
+[o] void
+[o] String[] args
+[r] Visibility describes who can run the program so a public visibility means any one can run this.
+
+[q]  In Java after the class declaration, a method may may be declared as follows: “public static void main(String[] args){“. How many main methods may this class have?
+[a] 1
+[o] 0
+[o] 2
+[o] as many as desired
+[r] it is one because of the static declaration meaning this is a class method.
+
+[q] In Java after the class declaration, a method may may be declared as follows: “public static void main(String[] args){“. What allows the JVM (Java Virtual machine) to know where to starrt?
+[o] public
+[o] static
+[a] main
+[o] void
+[o] String[] args
+[r] This is a main method so the JVM will know to start with this method
+
+[q] In Java after the class declaration, a method may may be declared as follows: “public static void main(String[] args){“. What is the return
+[o] public
+[o] static
+[o] main
+[a] void
+[o] String[] args
+[r] A return of void means that there will be no returned value but it must still be declared so java can properly compile.
+
+[v] In Java to form an array the code to form an array with 15 items would be int[] x= …
+[a] new int[15];
+[o] new char[15];
+[o] [5];
+[o] new int{15};
+[r] the new int[15] will form and int[] as int[] x must be an integer array and it will be 15 units long. It will form an integer array all with fifteen integers items all initialized to the default (0).
+
+[q] In Java the following will will result in true (the other option being it will crash or be false) assuming x is an integer already initialized :   !(x++ == x +1) || true && false;
+[a] true
+[o] false
+[r] the or operation (x++==x+1) is false because even though x++ is an incrementor when the ++ is after the variable it only takes effect after the line executes. So it becomes !false || true && false. Then Java executes the and operation making it !false|| false. So that ! Which mean not makes it true || false. Since || is the or operator the following will be evaluated to true.
+
+[q] In Java what will be printed if x = 0 for: switch(int x){ case 0: System.out.print(“0”); default: System.out.print(“1”)};
+[a] 0
+[o] 1
+[o] 2
+[r] without a break statement the switch will executes all the code underneath it in the other cases.
+
+ [q] A square is a rectangle. As a ____ is a class.
+[a] instance
+[o] interface
+[o] method
+[o] constructor
+[r] An instance is an “instance” of a class. Like a mustang is a example of a ford.
+
+[q] A child class must have all the methods and variables of its superclass (the class it inherits from). It can however override and of these methods.
+[a] true
+[o] false
+[r] This can create Class hierarchy. And means that old code can more easily be reused.
+[q] One might use an instance variable to count all the instances of something in a particular class.
+[a] false
+[o] true
+[r] An instance variable would be kept in the (child) class of that particular instance. Instead a static variable would be used. And there would only be one static variable not every child would need that count.
+
+
+[q] There is no way to stop a code from crashing from a checked exception.
+[a] false
+[o] true
+[r] One can catch an exception and must explicitly account for the exception that are checked
+
+[q] A runtime exception is an example of a ____ exception.
+[a] unchecked
+[o] checked
+
+[q] Importing what class would allow you BufferedReader and FileReader?
+[a] java.io.*;
+[o] java.lang.*;
+[o] java.util.*;
+[r] java.io.* is the input output package in java.
+
+[q] Which class allows one to read a user's input?
+[a] Scanner
+[o] FileReader
+[o] System.in
+[r] The scanner class can read as users input which orginates in file.in.
+
+
+
+

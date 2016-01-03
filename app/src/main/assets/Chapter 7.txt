@@ -1,0 +1,182 @@
+[v]LAN stands for?
+[a]Local Area Network
+[o]Localized Area Nuisances
+[o]Limited Area Network
+[o]Low Aerial Net
+[o]Local Area News
+[v]WAN stands for?
+[a]Wide Area Network
+[o]World Area Network
+[o]World Area News
+[o]Wide Awake News
+[o]Weak Area Network
+[v]ISO OSI stands for?
+[a]International Standards Organization Open Systems Interconnection
+[o]Inside System Operations Operating System Internals
+[o]Initial System Operations Opposing Systems Interconnectivity
+[o]International Systems Organization Operating Systems Intranetwork
+[o]Internal System Online Organizational Systems Inside
+[q]The ISO OSI has how many layers?
+[a]7
+[o]2
+[o]10
+[o]5
+[o]8
+[r]Physical, Data Link, Network, Transport, Session, Presentation, Application
+[q]The internet model contains how many layers?
+[a]4
+[o]2
+[o]3
+[o]5
+[o]6
+[r]subnet(data link), internet(network), end to end(transport), application
+[q]When using HTML if one does not close a header the browser will crash?
+[a]False
+[o]True
+[r]With HTML the browser will display what it can and not crash or display cryptic error messages.
+[v]What does API stand for?
+[a]application program interface
+[o]automatic power installation
+[o]automatic program installation
+[o]applicable privacy investigation
+[o]arranged personal information
+[v]What does ISP stand for?
+[a]internet service provider
+[o]international service provider
+[o]internet security protocol
+[o]initial security personal
+[o]internal security program
+ [v]What does IP stand for?
+[a]internet protocol
+[o]initial protocol
+[o]intermediate position
+[o]immediate persecution
+[o]individual property
+[q]How many bits is IPv4?
+[a]32
+[o]64
+[o]16
+[o]8
+[o]4
+[r]IPv6 is 64 bits while version 4 is 32 bits
+[q]The physical layer of the ISO OSI does which of the following?
+[a]Connects two points
+[o]error checking
+[o]message relaying protocol
+[o]interconnectivity
+[o]WAN
+[q] The data link layer of the ISO OSI does which of the following?
+[a]provides structure to message and error checking
+[o]medium to connect to points
+[o]OSI
+[o]instant messaging
+[o]TCP/IP
+[q] The networking layer of the ISO OSI is which of the following?
+[a]lowest layer of networking protocol for exchanging messages via relaying messages between intervening computers.
+[o]higher level language
+[o]end-to-end connection
+[o]wireless connectivity
+[o]IP address
+[q] The transport layer of the ISO OSI does which of the following?
+[a]receiver gets all frames, in the correct order, and without duplication
+[o]uses a BUS to connect multiple computers
+[o]CSMA/CD
+[o]is the medium of communication
+[o]prints message to screen
+[q]The internet model contains all the following from the ISO OSI except _____ in the application layer.
+[a]transport layer
+[o]session layer
+[o]presentation layer
+[o]application layer
+[q]The internet model’s subnet(data link) layer contains the ISO OSI data link and ____ layer?
+[a]physical
+[o]transport
+[o]network
+[o]application
+[o]End-to-end
+[v]TCP stands for?
+[a]transaction control protocol
+[o]travel continuity protocol
+[o]time control protocol
+[o]transitional continuity position
+[o]travel control personal
+[q] Ethernet protocol uses___?
+[a]CSMA/CD
+[o]CSMA/CA
+[o]IEEE standard 802.11
+[o]fiber optic cable
+[o]HTTP
+[r] IEEE standard 802.3  (carrier sense multiple access/collision detection)
+[q]Wi-Fi uses _____.
+[a]CSMA/CA
+[o]CSMA/CD
+[o]IEEE standard 802.3
+[o]fiber optic cable
+[o]BUS
+[r]IEEE standard 802.11 (carrier sense multiple access/collision avoidance)
+ [v]RTS stands for?
+[a]request to send
+[o]real time simulation
+[o]regular timed solution
+[o]required time situation
+[o]relationship transform standard
+[v]CTS stands for?
+[a]clear to send
+[o]click to send
+[o]click to sell
+[o]clear timed standard
+[o]computational technology security
+[v]www stands for?
+[a]world wide web
+[o]world wide win
+[o]win win win
+[o]wide world win
+[o]window washer widow
+[v]http stands for?
+[a]hypertext transport protocol
+[o]hypertext transport procedure
+[o]hyperlink text protocol
+[o]hyperlink text transport procedure
+[o]hyperlink transport text protocol
+[v]ISNs stands for?
+[a]initial sequence numbers
+[o]initial state numbers
+[o]initial security numbers
+[o]intentional security nuisances
+[o]international secure network
+[v]API stands for?
+[a]application program interface
+[o]apparent programmable interface
+[o]arranged programmable interface
+[o]applied powerful internet
+[o]arranged plausible intranet
+[v]URL stands for?
+[a]uniform resource locator
+[o]unilateral resource locator
+[o]uniform resource liability
+[o]ultimate resource locator
+[o]underrated locale
+[v]HTML stands for?
+[a]hypertext markup language
+[o]hyperlink text malleable linguistics
+[o]hypertext management language
+[o]hyperlink timed merge language
+[o]hypertext modified location
+[q]When did ARPAnet begin?
+[a]late 1960’s
+[o]1972
+[o]1973
+[o]1974
+[o]1979
+[q]When was the first email sent?
+[a]1971
+[o]1980
+[o]1968
+[o]1973
+[o]1990
+[q]When did TCP/IP protocols become standard?
+[a]1983
+[o]1971
+[o]late 1960’s
+[o]1989
+[o]1992

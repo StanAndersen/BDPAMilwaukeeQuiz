@@ -1,0 +1,70 @@
+[q]Two early types of databases were hierarchal and ___?
+[a]networking
+[o]random
+[o]broadband
+[o]linear
+[o]batch
+[q]when where databases started?
+[a]late 1960’s
+[o]1971
+[o]1980’s
+[o]1975
+[o]late 1950’s
+[q]The biggest advantage of using a database?
+[a]speed
+[o]space
+[o]location
+[o]organization
+[v]What is metadata?
+[a]data about data
+[o]key data
+[o]primary key
+[o]memory location
+[o]stack pointer
+[v]What does DBMS mean?
+[a]database management system
+[o]data byte management status
+[o]database management status
+[o]data binomial mass standard
+[o]databyte management status
+[q]The marks at the ends of lines on an E-R(entity relationship) diagram represent?
+[a]cardinalities
+[o]instances
+[o]symbols
+[o]connections
+[o]status
+[q]Which is not a schema a database developer would not refer to?
+[a]interconnectivity
+[o]internal
+[o]external
+[o]conceptual
+[v]A tuple is a/n
+[a]row relationship
+[o]field
+[o]unique characteristic
+[o]column
+[o]memory location
+[v]A field is a/n
+[a]attribute
+[o]row
+[o]column
+[o]unique identifier
+[o]relation
+[v]A relation is a
+[a]table
+[o]relationship
+[o]row
+[o]primary key
+[o]database
+[v]Primary keys are
+[a]unique
+[o]ambiguous
+[o]detailed
+[o]broad
+[o]numbers
+[v]Surrogate keys are
+[a]numbers
+[o]alphanumeric
+[o]based of other data
+[o]letters
+[o]metadata
